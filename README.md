@@ -1,4 +1,5 @@
 # Design-and-Construction-of-an-Embedded-System-based-on-PIC-16F877A
+A single-side PCB design was made to hold PIC microcontroller, with several relay-type outputs, GPIOs and I2C communication. 
 
 ## Year: 2012. 
 
